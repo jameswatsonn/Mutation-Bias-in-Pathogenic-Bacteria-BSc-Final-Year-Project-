@@ -12,6 +12,6 @@ Developed a bioinformatics pipeline in R to identify mutation hotspots within ba
 
 **Code:** All analysis scripts and pipelines are available in the main repository, under [Code.R](Code.R)
 
-**Report:** Full dissertation report available for download via the link below:
+**Report:** Full project report available for download via the link below:
 
 **[⬇️ Download Full Project Report (PDF)](https://github.com/jameswatsonn/Mutation-Bias-in-Pathogenic-Bacteria-BSc-Final-Year-Project-/raw/main/docs/Report.pdf)**
