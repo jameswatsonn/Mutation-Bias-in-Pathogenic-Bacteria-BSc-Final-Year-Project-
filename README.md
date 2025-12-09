@@ -1,7 +1,8 @@
 # BSc Final Year Project: Mutation Bias in Pathogenic Bacteria: A Computational Approach to Explore Mononucleotide Sequence Repeats as a Hotspot of Genetic Mutation
 
 **University of Bath** | Oct 2021 - Jul 2024  
-BSc (Hons) Natural Science | First-Class Honours
+**Degree:** BSc (Hons) Natural Science (First-Class Honours)  
+**Project Grade:** 77% (First-Class)
 
 ---
 
