@@ -5,4 +5,4 @@
 **University of Bath** | Oct 2021 - Jul 2024 
 BSc (Hons) Natural Science | First-Class Honours
 
-**[Download Full Report PDF](docs/Report.pdf)**
+**[Download Dissertation PDF](https://github.com/jameswatsonn/pinn-option-pricing/raw/main/docs/dissertation.pdf)**
