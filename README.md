@@ -2,7 +2,7 @@
 
 ## 📂 Project Documentation
 
-**University of Bath** | Sep 2024 - Jan 2026  
+**University of Bath** | Oct 2021 - Jul 2024 
 BSc (Hons) Natural Science | First-Class Honours
 
 **[Download Full Report PDF](docs/Report.pdf)**
